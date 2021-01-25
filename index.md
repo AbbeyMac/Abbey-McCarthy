@@ -1,3 +1,7 @@
+## About Me
+
+I am an Artificial Intelligence major at the University of Adelaide with expected graduation in mid 2022 with honours. I am focused on Artificial Intelligence and Machine Learning research. This page will demonstrate some of my own research throughout my time at university. I am heavily involved with the university clubs community, being the 2021 president of the [Computer Science Club](https://csclub.org.au) and the schools manager for [Robogals Adelaide](https://robogals.com). 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AbbeyMac/abbey_mccarthy_portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
